@@ -1,3 +1,3 @@
 # Movie App 2021
 
-React Js Fundamnetals Course (2021 version) 
+React Js Fundamentals Course (2021 version) 
